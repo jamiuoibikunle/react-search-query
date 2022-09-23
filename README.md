@@ -1,6 +1,6 @@
 # React Search Query
 
-_A iightweight library for working qith search queries in react_
+A lightweight library for working with search queries in react
 
 React search query allows you to get the search params in the URL with a single line of code.
 
