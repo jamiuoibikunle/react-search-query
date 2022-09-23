@@ -2,12 +2,18 @@
     "name": "react-search-query",
     "version": "1.0.0",
     "description": "",
-    "main": "index.js",
+    "main": "./dist/index.cjs.js",
     "scripts": {
         "build": "rollup -c",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "keywords": [],
+    "keywords": [
+        "query",
+        "query parameter",
+        "url search",
+        "search",
+        "url"
+    ],
     "author": "",
     "license": "ISC",
     "dependencies": {
